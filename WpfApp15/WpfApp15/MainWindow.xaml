@@ -1,0 +1,28 @@
+﻿<Window x:Class="WpfApp15.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp15"
+        mc:Ignorable="d"
+        Title="Haberler" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+
+        <Menu>
+            <MenuItem Header="Listele">
+                <MenuItem Header="Haberler" Tag="HaberListesiPage" Click="Mi_Click"/>
+            </MenuItem>
+            <MenuItem Header="Kayıt">
+                <MenuItem Header="Haber" Tag="HaberKaydıPage" Click="Mi_Click"/>
+                <MenuItem Header="Kategori" Tag="KategoriKaydıPage" Click="Mi_Click"/>
+            </MenuItem>
+        </Menu>
+
+        <Frame x:Name="Frm" NavigationUIVisibility="Hidden" Grid.Row="1" Source="/Views/HaberListesiPage.xaml"/>
+
+    </Grid>
+</Window>

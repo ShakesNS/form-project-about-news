@@ -1,0 +1,47 @@
+﻿<Page x:Class="WpfApp15.Views.HaberKaydıPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:WpfApp15.Views"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="HaberKaydıPage">
+
+    <Grid Background="White">
+
+        <ScrollViewer>
+
+            <StackPanel Margin="20" HorizontalAlignment="Center">
+
+                <StackPanel Orientation="Horizontal" Margin="5">
+                    <TextBlock Text="Kategori:" Width="80" VerticalAlignment="Center"/>
+                    <ComboBox x:Name="CbKategoriler" Width="120" DisplayMemberPath="KategoriAdı"/>
+                </StackPanel>
+
+                <StackPanel Orientation="Horizontal" Margin="5">
+                    <TextBlock Text="Başlık:" Width="80" VerticalAlignment="Center"/>
+                    <TextBox x:Name="TbBaşlık" Width="120"/>
+                </StackPanel>
+
+                <StackPanel Orientation="Horizontal" Margin="5">
+                    <TextBlock Text="İçerik:" Width="80"/>
+                    <TextBox x:Name="Tbİçerik" Width="120" Height="90" VerticalScrollBarVisibility="Auto" AcceptsReturn="True"/>
+                </StackPanel>
+
+                <StackPanel Orientation="Horizontal" Margin="5">
+                    <TextBlock Text="Resim:" Width="80"/>
+                    <StackPanel>
+                        <Button x:Name="BtnResimSeç" Content="Resim Seç..." Width="120" Click="BtnResimSeç_Click"/>
+                        <Image x:Name="ImgResim" Width="120"/>
+                    </StackPanel>
+                </StackPanel>
+
+                <Button x:Name="BtnKaydet" Content="Kaydet" Width="80" Margin="5" Click="BtnKaydet_Click"/>
+
+            </StackPanel>
+
+        </ScrollViewer>
+        
+    </Grid>
+</Page>

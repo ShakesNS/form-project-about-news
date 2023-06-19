@@ -1,0 +1,65 @@
+C:\Users\Erman\source\repos\WpfApp15\WpfApp15\bin\Debug\WpfApp15.exe.config
+C:\Users\Erman\source\repos\WpfApp15\WpfApp15\bin\Debug\WpfApp15.exe
+C:\Users\Erman\source\repos\WpfApp15\WpfApp15\bin\Debug\WpfApp15.pdb
+C:\Users\Erman\source\repos\WpfApp15\WpfApp15\obj\Debug\WpfApp15.csprojResolveAssemblyReference.cache
+C:\Users\Erman\source\repos\WpfApp15\WpfApp15\obj\Debug\MainWindow.g.cs
+C:\Users\Erman\source\repos\WpfApp15\WpfApp15\obj\Debug\App.g.cs
+C:\Users\Erman\source\repos\WpfApp15\WpfApp15\obj\Debug\WpfApp15_MarkupCompile.cache
+C:\Users\Erman\source\repos\WpfApp15\WpfApp15\obj\Debug\WpfApp15_MarkupCompile.lref
+C:\Users\Erman\source\repos\WpfApp15\WpfApp15\obj\Debug\MainWindow.baml
+C:\Users\Erman\source\repos\WpfApp15\WpfApp15\obj\Debug\WpfApp15.g.resources
+C:\Users\Erman\source\repos\WpfApp15\WpfApp15\obj\Debug\WpfApp15.Properties.Resources.resources
+C:\Users\Erman\source\repos\WpfApp15\WpfApp15\obj\Debug\WpfApp15.csproj.GenerateResource.cache
+C:\Users\Erman\source\repos\WpfApp15\WpfApp15\obj\Debug\WpfApp15.csproj.CoreCompileInputs.cache
+C:\Users\Erman\source\repos\WpfApp15\WpfApp15\obj\Debug\WpfApp15.exe
+C:\Users\Erman\source\repos\WpfApp15\WpfApp15\obj\Debug\WpfApp15.pdb
+C:\Users\Erman\source\repos\WpfApp15\WpfApp15\bin\Debug\Db.mdf
+C:\Users\Erman\source\repos\WpfApp15\WpfApp15\bin\Debug\Db_log.ldf
+C:\Users\Erman\source\repos\WpfApp15\WpfApp15\bin\Debug\EntityFramework.dll
+C:\Users\Erman\source\repos\WpfApp15\WpfApp15\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Erman\source\repos\WpfApp15\WpfApp15\bin\Debug\EntityFramework.xml
+C:\Users\Erman\source\repos\WpfApp15\WpfApp15\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Erman\source\repos\WpfApp15\WpfApp15\obj\Debug\WpfApp15_Content.g.cs
+C:\Users\Erman\source\repos\WpfApp15\WpfApp15\obj\Debug\WpfApp15.csproj.CopyComplete
+C:\Users\Erman\source\repos\WpfApp15\WpfApp15\obj\Debug\Views\HaberKaydıPage.g.cs
+C:\Users\Erman\source\repos\WpfApp15\WpfApp15\obj\Debug\Views\HaberListesiPage.g.cs
+C:\Users\Erman\source\repos\WpfApp15\WpfApp15\obj\Debug\Views\KategoriKaydıPage.g.cs
+C:\Users\Erman\source\repos\WpfApp15\WpfApp15\obj\Debug\Views\HaberKaydıPage.baml
+C:\Users\Erman\source\repos\WpfApp15\WpfApp15\obj\Debug\Views\HaberListesiPage.baml
+C:\Users\Erman\source\repos\WpfApp15\WpfApp15\obj\Debug\Views\KategoriKaydıPage.baml
+C:\Users\Erman\source\repos\WpfApp15\WpfApp15\obj\Debug\App.baml
+C:\Users\Erman\source\repos\WpfApp15\WpfApp15\obj\Debug\Views\HaberPage.g.cs
+C:\Users\Erman\source\repos\WpfApp15\WpfApp15\obj\Debug\Views\HaberPage.baml
+D:\enes\dersler\Lise\11.sınıf\uygulama\2.dönem\HaberUygulaması (ERMAN HOCA)\WpfApp15\WpfApp15\bin\Debug\Db.mdf
+D:\enes\dersler\Lise\11.sınıf\uygulama\2.dönem\HaberUygulaması (ERMAN HOCA)\WpfApp15\WpfApp15\bin\Debug\Db_log.ldf
+D:\enes\dersler\Lise\11.sınıf\uygulama\2.dönem\HaberUygulaması (ERMAN HOCA)\WpfApp15\WpfApp15\bin\Debug\WpfApp15.exe.config
+D:\enes\dersler\Lise\11.sınıf\uygulama\2.dönem\HaberUygulaması (ERMAN HOCA)\WpfApp15\WpfApp15\bin\Debug\WpfApp15.exe
+D:\enes\dersler\Lise\11.sınıf\uygulama\2.dönem\HaberUygulaması (ERMAN HOCA)\WpfApp15\WpfApp15\bin\Debug\WpfApp15.pdb
+D:\enes\dersler\Lise\11.sınıf\uygulama\2.dönem\HaberUygulaması (ERMAN HOCA)\WpfApp15\WpfApp15\bin\Debug\EntityFramework.dll
+D:\enes\dersler\Lise\11.sınıf\uygulama\2.dönem\HaberUygulaması (ERMAN HOCA)\WpfApp15\WpfApp15\bin\Debug\EntityFramework.SqlServer.dll
+D:\enes\dersler\Lise\11.sınıf\uygulama\2.dönem\HaberUygulaması (ERMAN HOCA)\WpfApp15\WpfApp15\bin\Debug\EntityFramework.xml
+D:\enes\dersler\Lise\11.sınıf\uygulama\2.dönem\HaberUygulaması (ERMAN HOCA)\WpfApp15\WpfApp15\bin\Debug\EntityFramework.SqlServer.xml
+D:\enes\dersler\Lise\11.sınıf\uygulama\2.dönem\HaberUygulaması (ERMAN HOCA)\WpfApp15\WpfApp15\obj\Debug\WpfApp15.csproj.AssemblyReference.cache
+D:\enes\dersler\Lise\11.sınıf\uygulama\2.dönem\HaberUygulaması (ERMAN HOCA)\WpfApp15\WpfApp15\obj\Debug\WpfApp15.csproj.SuggestedBindingRedirects.cache
+D:\enes\dersler\Lise\11.sınıf\uygulama\2.dönem\HaberUygulaması (ERMAN HOCA)\WpfApp15\WpfApp15\obj\Debug\MainWindow.g.cs
+D:\enes\dersler\Lise\11.sınıf\uygulama\2.dönem\HaberUygulaması (ERMAN HOCA)\WpfApp15\WpfApp15\obj\Debug\Views\HaberKaydıPage.g.cs
+D:\enes\dersler\Lise\11.sınıf\uygulama\2.dönem\HaberUygulaması (ERMAN HOCA)\WpfApp15\WpfApp15\obj\Debug\Views\HaberListesiPage.g.cs
+D:\enes\dersler\Lise\11.sınıf\uygulama\2.dönem\HaberUygulaması (ERMAN HOCA)\WpfApp15\WpfApp15\obj\Debug\Views\HaberPage.g.cs
+D:\enes\dersler\Lise\11.sınıf\uygulama\2.dönem\HaberUygulaması (ERMAN HOCA)\WpfApp15\WpfApp15\obj\Debug\Views\KategoriKaydıPage.g.cs
+D:\enes\dersler\Lise\11.sınıf\uygulama\2.dönem\HaberUygulaması (ERMAN HOCA)\WpfApp15\WpfApp15\obj\Debug\App.g.cs
+D:\enes\dersler\Lise\11.sınıf\uygulama\2.dönem\HaberUygulaması (ERMAN HOCA)\WpfApp15\WpfApp15\obj\Debug\WpfApp15_Content.g.cs
+D:\enes\dersler\Lise\11.sınıf\uygulama\2.dönem\HaberUygulaması (ERMAN HOCA)\WpfApp15\WpfApp15\obj\Debug\WpfApp15_MarkupCompile.cache
+D:\enes\dersler\Lise\11.sınıf\uygulama\2.dönem\HaberUygulaması (ERMAN HOCA)\WpfApp15\WpfApp15\obj\Debug\WpfApp15_MarkupCompile.lref
+D:\enes\dersler\Lise\11.sınıf\uygulama\2.dönem\HaberUygulaması (ERMAN HOCA)\WpfApp15\WpfApp15\obj\Debug\App.baml
+D:\enes\dersler\Lise\11.sınıf\uygulama\2.dönem\HaberUygulaması (ERMAN HOCA)\WpfApp15\WpfApp15\obj\Debug\MainWindow.baml
+D:\enes\dersler\Lise\11.sınıf\uygulama\2.dönem\HaberUygulaması (ERMAN HOCA)\WpfApp15\WpfApp15\obj\Debug\Views\HaberKaydıPage.baml
+D:\enes\dersler\Lise\11.sınıf\uygulama\2.dönem\HaberUygulaması (ERMAN HOCA)\WpfApp15\WpfApp15\obj\Debug\Views\HaberListesiPage.baml
+D:\enes\dersler\Lise\11.sınıf\uygulama\2.dönem\HaberUygulaması (ERMAN HOCA)\WpfApp15\WpfApp15\obj\Debug\Views\HaberPage.baml
+D:\enes\dersler\Lise\11.sınıf\uygulama\2.dönem\HaberUygulaması (ERMAN HOCA)\WpfApp15\WpfApp15\obj\Debug\Views\KategoriKaydıPage.baml
+D:\enes\dersler\Lise\11.sınıf\uygulama\2.dönem\HaberUygulaması (ERMAN HOCA)\WpfApp15\WpfApp15\obj\Debug\WpfApp15.g.resources
+D:\enes\dersler\Lise\11.sınıf\uygulama\2.dönem\HaberUygulaması (ERMAN HOCA)\WpfApp15\WpfApp15\obj\Debug\WpfApp15.Properties.Resources.resources
+D:\enes\dersler\Lise\11.sınıf\uygulama\2.dönem\HaberUygulaması (ERMAN HOCA)\WpfApp15\WpfApp15\obj\Debug\WpfApp15.csproj.GenerateResource.cache
+D:\enes\dersler\Lise\11.sınıf\uygulama\2.dönem\HaberUygulaması (ERMAN HOCA)\WpfApp15\WpfApp15\obj\Debug\WpfApp15.csproj.CoreCompileInputs.cache
+D:\enes\dersler\Lise\11.sınıf\uygulama\2.dönem\HaberUygulaması (ERMAN HOCA)\WpfApp15\WpfApp15\obj\Debug\WpfApp15.csproj.CopyComplete
+D:\enes\dersler\Lise\11.sınıf\uygulama\2.dönem\HaberUygulaması (ERMAN HOCA)\WpfApp15\WpfApp15\obj\Debug\WpfApp15.exe
+D:\enes\dersler\Lise\11.sınıf\uygulama\2.dönem\HaberUygulaması (ERMAN HOCA)\WpfApp15\WpfApp15\obj\Debug\WpfApp15.pdb
